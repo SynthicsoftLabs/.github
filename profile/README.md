@@ -1,7 +1,7 @@
 <!-- SynthicSoft Labs | Enterprise-Grade Software Engineering -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SynthicsoftLabs/.github/main/assets/banner-dark.png" alt="SynthicSoft Labs Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SynthicsoftLabs/.github/main/assets/dark-banner.png" alt="SynthicSoft Labs Banner" width="100%" />
 </p>
 
 <h1 align="center">SYNTHICSOFT LABS</h1>
